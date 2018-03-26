@@ -19,7 +19,7 @@ body {
 
 .navbar {
   margin-bottom: 0;
-  background-color: #41f18a;
+  background-color: #2c553d;
 }
 
 .jumbotron {
@@ -113,7 +113,7 @@ body {
   padding-left: 10px;
   margin: 0;
   font-weight: 800;
-  background: #41f18a;
+  background: #2c553d;
 }
 
 .navbar-nav > li > a.scrape-new {
