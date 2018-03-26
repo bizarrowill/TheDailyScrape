@@ -14,7 +14,7 @@ body {
   width: 100%;
   height: 80px;
   color: white;
-  background-color: #2196f3;
+  background-color: #41f18a;
 }
 
 .navbar {
@@ -74,7 +74,7 @@ body {
 }
 
 .panel.panel-default .panel-heading {
-  background-color: #2196f3;
+  background-color: #41f18a;
   position: relative;
 }
 
@@ -112,7 +112,7 @@ body {
   padding-left: 10px;
   margin: 0;
   font-weight: 800;
-  background: #0c7cd5;
+  background: #41f18a;
 }
 
 .navbar-nav > li > a.scrape-new {

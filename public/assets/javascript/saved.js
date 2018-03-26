@@ -102,7 +102,7 @@ $(document).ready(function() {
     var currentNote;
     if (!data.notes.length) {
       // no notes to display? let user know
-      currentNote = ["<li class='list-group-item'>", "No notes about this yet, add one!", "</li>"].join("");
+      currentNote = ["<li class='list-group-item'>", "No saved notes yet, feel free to add!", "</li>"].join("");
       notesToRender.push(currentNote);
     }
     else {

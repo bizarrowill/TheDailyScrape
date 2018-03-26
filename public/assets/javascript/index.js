@@ -77,7 +77,7 @@ $(document).ready(function() {
         "</div>",
         "<div class='panel panel-default'>",
         "<div class='panel-heading text-center'>",
-        "<h3>What would you liek to do next?</h3>",
+        "<h3>What would you like to do next?</h3>",
         "</div>",
         "<div class='panel-body text-center'>",
         "<h4><a class='scrape-new'>Scape again!</a></h4>",
