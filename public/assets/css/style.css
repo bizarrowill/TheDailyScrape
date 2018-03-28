@@ -116,6 +116,12 @@ body {
   background: #2c553d;
 }
 
+.navbar-inverse .navbar-nav>.active>a, 
+.navbar-inverse .navbar-nav>.active>a:hover, 
+.navbar-inverse .navbar-nav>.active>a:focus {
+  background: #52cf86;
+}
+
 .navbar-nav > li > a.scrape-new {
   padding: 10px;
   margin-top: 10px;
