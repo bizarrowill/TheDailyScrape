@@ -44,7 +44,7 @@ body {
 
 .jumbotron .background-image {
   height: 100%;
-  background-image: url("../images/newspaper.jpg");
+  background-image: url("../images/newspaper.png");
   background-size: cover;
 }
 
